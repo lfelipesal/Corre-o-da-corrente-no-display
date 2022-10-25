@@ -46,10 +46,10 @@ interpolar os dados e obtendo assim uma função de correção para mostrar a co
       <details>
             <summary><b>Gráficos<b/></summary>
               
-            ![graf com 30 25 e 20 amper em relação a temp do filtro](https://user-images.githubusercontent.com/93229568/197697355-abb5a8b1-e0c3-4f2d-b39d-c9a020c774b1.jpg)
+     ![graf com 30 25 e 20 amper em relação a temp do filtro](https://user-images.githubusercontent.com/93229568/197697355-abb5a8b1-e0c3-4f2d-b39d-c9a020c774b1.jpg)
               
         
-            ![graf com 30 25 e 20 amper em relação a temp UPS](https://user-images.githubusercontent.com/93229568/197697383-75be91f9-527e-43a8-b273-bf3278a64d48.jpg)
+     ![graf com 30 25 e 20 amper em relação a temp UPS](https://user-images.githubusercontent.com/93229568/197697383-75be91f9-527e-43a8-b273-bf3278a64d48.jpg)
 
       </details>
   
@@ -60,7 +60,7 @@ interpolar os dados e obtendo assim uma função de correção para mostrar a co
         <details>
             <summary><b>Gráficos gerado pelo programa<b/></summary>
             
-              ![graf em python](https://user-images.githubusercontent.com/93229568/197697549-c837b6e2-1295-4068-b63e-db7e03798583.jpg)
+       ![graf em python](https://user-images.githubusercontent.com/93229568/197697549-c837b6e2-1295-4068-b63e-db7e03798583.jpg)
 
         </details>
           
