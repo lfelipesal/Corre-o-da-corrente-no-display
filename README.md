@@ -62,7 +62,7 @@ interpolar os dados e obtendo assim uma função de correção para mostrar a co
             
        ![graf em python](https://user-images.githubusercontent.com/93229568/197697549-c837b6e2-1295-4068-b63e-db7e03798583.jpg)
 
-        </details>
+       </details>
           
   - `4 - Implementação` Para colocar essa nova funcionalidade no display, séria necessário o estudo do seu código e do seu hardware de modo esquemático, ou seja,
           para criar um ambiente simulado de desenvolvimento utilizando o Proteus 8, e o microcontrolador STM32 era preciso ter acesso as documentações 
